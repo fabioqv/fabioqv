@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá! Eu sou a Fábio Queiroz
 
-<!--
-**fabioqv/fabioqv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabinqv_?igshid=OGQ5ZDc2ODk2ZA==)
 
-Here are some ideas to get you started:
+![Fábio Queiroz GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioqv&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioqv&layout=compact)
+
+### Tecnologias que eu utilizo/estudo
+
+<div style="display: inline_block"> <br/>
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  
+    ![image](https://github.com/fabioqv/fabioqv/assets/147070039/4da74727-4271-4cc7-87ff-1fb7b684cb11)
+
+</div> <br/>
+  Me chamo Fábio e estou cursando um curso tecnico nas seguintes áreas: Informática para Internet, Redes de Computadores, Internet das Coisas e Programação de Jogos Digitais. Gosto bastante desta área e estou graduando em interdisciplinar em tecnologia da informação na UFERSA.
